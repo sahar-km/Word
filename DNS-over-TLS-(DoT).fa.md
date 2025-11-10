@@ -83,9 +83,9 @@
 ![2](https://user-images.githubusercontent.com/787301/120061998-60663000-c092-11eb-8eee-612a1f86c632.jpg)
 
 
-### [iOS 14/iPadOS 14/MacOS](https://github.com/pengelana/blocklist/tree/master/iOS)
+### [iOS 14/iPadOS 14/MacOS](./iOS)
 
-* پروفایل `DNS-over-TLS` را از [گیت‌هاب](https://github.com/pengelana/blocklist/blob/master/iOS/dot.tiar.app-signed.mobileconfig) دانلود کنید.
+* پروفایل `DNS-over-TLS` را از [گیت‌هاب](./iOS/dot.tiar.app-signed.mobileconfig) دانلود کنید.
 
 * `مشاهده خام` - `اجازه دادن` را انتخاب کنید
 
@@ -131,7 +131,7 @@
     tls_port: 853
 ~~~
 
-[فایل پیکربندی Stubby](https://github.com/pengelana/blocklist/blob/master/stubby/stubby.yml.example)
+[فایل پیکربندی Stubby](./stubby/stubby.yml.example)
 
 
 ## [Unbound](https://nlnetlabs.nl/projects/unbound/about/)

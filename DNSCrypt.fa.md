@@ -45,7 +45,7 @@
 
 https://oldwiki.archive.openwrt.org/inbox/dnscrypt
 
-[فایل پیکربندی](https://github.com/pengelana/blocklist/tree/master/dnscrypt-proxy/v1)
+[فایل پیکربندی](./dnscrypt-proxy/v1)
 
 `id-gmail,"id-gmail resolver","id-gmail content blocking","Singapore","",,2,yes,yes,no,174.138.21.128,2.dnscrypt-cert.dns.tiar.app,EF96:8066:E8D9:94F0:65D8:3EDD:D31A:EEED:F56D:8657:463E:4ACA:47CD:D7FE:97C3:D4F6,`
 
@@ -104,35 +104,35 @@ https://oldwiki.archive.openwrt.org/inbox/dnscrypt
 ### dnscrypt-proxy
 [نصب dnscrypt-proxy در لینوکس](https://github.com/jedisct1/dnscrypt-proxy/wiki/Installation-linux)
 
-[فایل پیکربندی dnscrypt-proxy](https://github.com/pengelana/blocklist/tree/master/dnscrypt-proxy/v2)
+[فایل پیکربندی dnscrypt-proxy](./dnscrypt-proxy/v2)
 
 ## MacOS
 ### dnscrypt-proxy
 
 [نصب dnscrypt-proxy در macOS](https://github.com/DNSCrypt/dnscrypt-proxy/wiki/Installation-macOS)
 
-[فایل پیکربندی dnscrypt-proxy](https://github.com/pengelana/blocklist/tree/master/dnscrypt-proxy/v2)
+[فایل پیکربندی dnscrypt-proxy](./dnscrypt-proxy/v2)
 
 ## OpenWrt
 ### dnscrypt-proxy نسخه ۱
 [dnscrypt-proxy نسخه ۱](https://oldwiki.archive.openwrt.org/inbox/dnscrypt)
 
-۱) [csv](https://github.com/pengelana/blocklist/blob/master/dnscrypt-proxy/v1/dnscrypt-resolvers.csv) را در /usr/share/dnscrypt-proxy/dnscrypt-resolvers.csv کپی کنید
-۲) /etc/config/[dnscrypt-proxy](https://github.com/pengelana/blocklist/blob/master/dnscrypt-proxy/v1/dnscrypt-proxy) را به‌روزرسانی کنید
-۳) /etc/[rc.local](https://github.com/pengelana/blocklist/blob/master/dnscrypt-proxy/v1/rc.local) را به‌روزرسانی کنید
+۱) [csv](./dnscrypt-proxy/v1/dnscrypt-resolvers.csv) را در /usr/share/dnscrypt-proxy/dnscrypt-resolvers.csv کپی کنید
+۲) /etc/config/[dnscrypt-proxy](./dnscrypt-proxy/v1/dnscrypt-proxy) را به‌روزرسانی کنید
+۳) /etc/[rc.local](./dnscrypt-proxy/v1/rc.local) را به‌روزرسانی کنید
 
 
 ### dnscrypt-proxy نسخه ۲
 [dnscrypt-proxy نسخه ۲](https://github.com/jedisct1/dnscrypt-proxy/wiki/Installation-on-OpenWRT)
 
-[فایل پیکربندی dnscrypt-proxy](https://github.com/pengelana/blocklist/tree/master/dnscrypt-proxy/v2)
+[فایل پیکربندی dnscrypt-proxy](./dnscrypt-proxy/v2)
 
 ## Pi-hole
 https://github.com/pi-hole/pi-hole/wiki/DNSCrypt-2.0
 
 https://github.com/pi-hole/pi-hole/wiki/DNSCrypt
 
-[فایل پیکربندی dnscrypt-proxy](https://github.com/pengelana/blocklist/tree/master/dnscrypt-proxy/v2)
+[فایل پیکربندی dnscrypt-proxy](./dnscrypt-proxy/v2)
 
 ![github](https://camo.githubusercontent.com/c8ca8e0c1b79caddac3b6bc239b9ae1ed473ac2d/68747470733a2f2f69312e77702e636f6d2f70692d686f6c652e6e65742f77702d636f6e74656e742f75706c6f6164732f323031382f30352f5265637572736976655265736f6c7665722e706e673f773d3537372673736c3d31)
 
@@ -141,4 +141,4 @@ https://github.com/pi-hole/pi-hole/wiki/DNSCrypt
 ### dnscrypt-proxy
 [نصب dnscrypt-proxy در ویندوز](https.github.com/DNSCrypt/dnscrypt-proxy/wiki/Installation-Windows#overview)
 
-[فایل پیکربندی dnscrypt-proxy](https://github.com/pengelana/blocklist/tree/master/dnscrypt-proxy/v2)
+[فایل پیکربندی dnscrypt-proxy](./dnscrypt-proxy/v2)

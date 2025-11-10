@@ -97,9 +97,9 @@
 ![2](https://user-images.githubusercontent.com/787301/120061998-60663000-c092-11eb-8eee-612a1f86c632.jpg)
 
 
-### [iOS 14/iPadOS 14](https://github.com/pengelana/blocklist/tree/master/iOS)
+### [iOS 14/iPadOS 14](./iOS)
 
-* پروفایل `DNS-over-HTTPS` را از [گیت‌هاب](https://github.com/pengelana/blocklist/blob/master/iOS/doh.tiar.app-signed.mobileconfig) دانلود کنید.
+* پروفایل `DNS-over-HTTPS` را از [گیت‌هاب](./iOS/doh.tiar.app-signed.mobileconfig) دانلود کنید.
 
 ![1](https://user-images.githubusercontent.com/787301/95647892-c69f4200-0b05-11eb-8075-5a427ece3e2e.png)
 
@@ -158,7 +158,7 @@ _**فایرفاکس 73.0b2**_
 
 [نصب dnscrypt-proxy در لینوکس](https://github.com/jedisct1/dnscrypt-proxy/wiki/Installation-linux)
 
-[فایل پیکربندی dnscrypt-proxy](https://github.com/pengelana/blocklist/tree/master/dnscrypt-proxy/v2)
+[فایل پیکربندی dnscrypt-proxy](./dnscrypt-proxy/v2)
 
 
 ### [~~Cloudflared~~](https://developers.cloudflare.com/1.1.1.1/dns-over-https/cloudflared-proxy/)
@@ -172,7 +172,7 @@ _**فایرفاکس 73.0b2**_
 ### dnscrypt-proxy
 [نصب در OpenWRT](https://github.com/jedisct1/dnscrypt-proxy/wiki/Installation-on-OpenWRT)
 
-[فایل پیکربندی dnscrypt-proxy](https://github.com/pengelana/blocklist/tree/master/dnscrypt-proxy/v2)
+[فایل پیکربندی dnscrypt-proxy](./dnscrypt-proxy/v2)
 
 
 ## Pi-hole
@@ -180,7 +180,7 @@ https://github.com/pi-hole/pi-hole/wiki/DNSCrypt-2.0
 
 https://docs.pi-hole.net/guides/dns-over-https/
 
-[فایل پیکربندی dnscrypt-proxy](https://github.com/pengelana/blocklist/tree/master/dnscrypt-proxy/v2)
+[فایل پیکربندی dnscrypt-proxy](./dnscrypt-proxy/v2)
 
 ![Pi-hole](https://docs.pi-hole.net/images/DoHConfig.png)
 
@@ -190,4 +190,4 @@ https://docs.pi-hole.net/guides/dns-over-https/
 ### dnscrypt-proxy
 [نصب dnscrypt-proxy در ویندوز](https://github.com/DNSCrypt/dnscrypt-proxy/wiki/Installation-Windows#overview)
 
-[فایل پیکربندی dnscrypt-proxy](https://github.com/pengelana/blocklist/tree/master/dnscrypt-proxy/v2)
+[فایل پیکربندی dnscrypt-proxy](./dnscrypt-proxy/v2)

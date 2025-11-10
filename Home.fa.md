@@ -19,12 +19,12 @@ IPv6: <b>[2400:6180:0:d0::5f6e:4001]</b> پورت <b>53</b> یا پورت <b>500
 
 ## راهنما:
 
-### [DNS](https://github.com/pengelana/blocklist/wiki/DNS.fa)
+### [DNS](./DNS.fa.md)
 
-### [DNS over HTTPS](https://github.com/pengelana/blocklist/wiki/DNS-over-HTTPS-(DoH).fa)
+### [DNS over HTTPS](./DNS-over-HTTPS-(DoH).fa.md)
 
-### [DNS over QUIC](https://github.com/pengelana/blocklist/wiki/DNS-over-QUIC-(DoQ).fa)
+### [DNS over QUIC](./DNS-over-QUIC-(DoQ).fa.md)
 
-### [DNS over TLS](https://github.com/pengelana/blocklist/wiki/DNS-over-TLS-(DoT).fa)
+### [DNS over TLS](./DNS-over-TLS-(DoT).fa.md)
 
-### [DNSCrypt](https://github.com/pengelana/blocklist/wiki/DNSCrypt.fa)
+### [DNSCrypt](./DNSCrypt.fa.md)
